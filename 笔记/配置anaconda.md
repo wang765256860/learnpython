@@ -21,8 +21,8 @@ https://www.anaconda.com/download/#macos
 
 ### 识别conda命令
 
-在终端中加入：
-
+在终端中加入：
+
 ```
 export PATH=~/anaconda3/bin:$PATH
 ```

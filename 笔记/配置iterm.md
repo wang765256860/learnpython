@@ -6,7 +6,7 @@
     - [下载iterm](#下载iterm)
     - [安装并打开iterm](#安装并打开iterm)
     - [配色方案](#配色方案)
-    - [安装oh-my-zsh](#安装oh-my-zsh)
+    - [安装oh-my-zsh](#安装oh-my-zsh)
     - [自动提示和代码补全](#自动提示和代码补全)
     - [语法高亮](#语法高亮)
     - [卸载](#卸载)
@@ -22,20 +22,20 @@ https://www.iterm2.com/
 
 ## 安装并打开iterm
 
-![make iterm2 default](https://segmentfault.com/img/remote/1460000012786470)
+[make iterm2 default](https://segmentfault.com/img/remote/1460000012786470)
 
 打开偏好设置，在keys下设置热键
 
 ## 配色方案
 
-[color][]
+[color][]
 
 [color]:
 https://iterm2colorschemes.com/
 
 zenburn配色不错
 
-## 安装oh-my-zsh
+## 安装oh-my-zsh
 
 github:<https://github.com/robbyrussell/oh-my-zsh>
 
@@ -69,7 +69,7 @@ source /xxx/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
 >/xxx/代表的是.zshrc的路径
 
-加载.zshrc配置
+加载.zshrc配置
 
 ```
 source ~/.zshrc
