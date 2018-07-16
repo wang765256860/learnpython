@@ -37,11 +37,11 @@ zenburn配色不错
 
 ## 安装oh-my-zsh
 
-github:<https://github.com/robbyrussell/oh-my-zsh>
+github:<https://github.com/robbyrussell/oh-my-zsh>
 
 ## 自动提示和代码补全
 
-克隆仓库到本地~/.oh-my-zsh/custom/plugins 路径下
+克隆仓库到本地~/.oh-my-zsh/custom/plugins 路径下
 
 ```
 git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
