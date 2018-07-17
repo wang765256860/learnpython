@@ -27,6 +27,12 @@ https://www.anaconda.com/download/#macos
 export PATH=~/anaconda3/bin:$PATH
 ```
 
+由于用的是`zsh`，还需要在`~/.zshrc`中加入
+
+```
+export PATH="/Users/wangzhen/anaconda3/bin:$PATH"
+```
+
 ### 修改vscode中的setting.json文件
 
 找到如下两个参数`python.autoComplete.extraPaths` & `python.pythonPath`，把`site-packages` & `bin/python`的正确路径配置一下。
